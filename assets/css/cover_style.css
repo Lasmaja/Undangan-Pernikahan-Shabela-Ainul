@@ -49,6 +49,10 @@ section {
   border: 4px solid var(--primary);
   border-radius: 50px 0;
 }
+.gambar{
+  background-image: url(../images/Pengantin.jpeg);
+  background-size: cover;
+}
 
 .cover {
   display: flex;
