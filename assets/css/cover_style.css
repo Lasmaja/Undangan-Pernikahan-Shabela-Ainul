@@ -53,6 +53,10 @@ section {
   background-image: url(../images/Pengantin.jpeg);
   background-size: cover;
 }
+.gambar2{
+  background-image: url(../Assets/icon/envelope-paper-heart.svg);
+  background-size: cover;
+}
 
 .cover {
   display: flex;
