@@ -162,7 +162,10 @@ body {
   font-size: 17px;
   animation: fade-in 800ms ease-in-out;
 }
-
+.gambar{
+  background-image: url(../images/Pengantin.jpeg);
+  background-size: cover;
+}
 .ayat {
   background-color: #2399b3;
   display: flex;
